@@ -12,7 +12,7 @@ github-repo: amlalejini/auto-deploying-bookdown-example
 description: "This is a demo for automatically deploying your bookdown ebook to GitHub pages."
 ---
 
-# Introduction!
+# Introduction
 
 Check out the GitHub repository with all the gears and levers to generate this example: <https://github.com/amlalejini/auto-deploying-bookdown-example>.
 If you want to know more about R markdown, check out [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) [@xie_r_2019].
